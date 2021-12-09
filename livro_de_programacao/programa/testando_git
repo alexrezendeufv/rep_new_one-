@@ -1,0 +1,11 @@
+Ola hoje vamos testar as funcionalidades do git 
+por enquanto estamos no basico. A priore configuramos o git 
+com os comandos:
+
+	git config --global user.email "colocar o email aqui "
+	e 
+	git config --global user.name nome
+
+
+por enquanto e isso
+-------------------------------------------
