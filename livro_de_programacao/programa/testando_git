@@ -1,5 +1,5 @@
 Ola hoje vamos testar as funcionalidades do git 
-por enquanto estamos no basico. A priore configuramos o git 
+por enquanto estamos no basico. Agora nos estamos configuramos o git 
 com os comandos:
 
 	git config --global user.email "colocar o email aqui "
@@ -8,4 +8,4 @@ com os comandos:
 
 
 por enquanto e isso
--------------------------------------------
+------***********------
